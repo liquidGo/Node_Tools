@@ -1,0 +1,25 @@
+{
+  "name": "node_tools",
+  "version": "1.0.0",
+  "description": "this is  node tools collection.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidGo/Node_Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liquidGo/Node_Tools/issues"
+  },
+  "homepage": "https://github.com/liquidGo/Node_Tools#readme"
+}

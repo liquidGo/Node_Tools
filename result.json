@@ -1,0 +1,9 @@
+[
+  "window.routerBase = \"/spice/\";",
+  "window.publicPath = \"https://static.property.cic.cn/prod-platform-lamp/static/lamp/innernewpreprod/spice/2.0.25_202406201100/\";",
+  "",
+  "",
+  "var lampMeta={\"env\":\"innernewpreprod\",\"productName\":\"spice\",\"version\":\"2.0.25_202406201100\"}",
+  "",
+  ""
+]
