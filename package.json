@@ -4,6 +4,7 @@
   "description": "this is  node tools collection.",
   "main": "index.js",
   "dependencies": {
+    "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
     "request": "^2.88.2"
   },
